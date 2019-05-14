@@ -1,0 +1,3 @@
+rootProject.name = 'ssx_react_native_Project'
+
+include ':app'
